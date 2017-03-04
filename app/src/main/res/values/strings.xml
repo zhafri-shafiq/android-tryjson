@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Try JSON</string>
+    <string name="load_recipes">Load Recipes</string>
+    <string name="student_info">Student Info</string>
+</resources>
